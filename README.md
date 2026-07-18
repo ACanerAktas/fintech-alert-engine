@@ -1,2 +1,2 @@
 # fintech-alert-engine
-Async financial alert and report engine
+Financial alert and report engine built with Spring Boot, RabbitMQ, and a multi-agent AI council.
